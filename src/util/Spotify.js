@@ -1,4 +1,4 @@
-const clientId = process.env.REACT_APP_SPOTIFY_TOKEN;
+const clientId = 'e1d21d07595f43789b7be27ad0b79f85';
 //const redirectUri = "http://localhost:3000";
 const redirectUri = "http://bumbumspotify.netlify.app/";
 
